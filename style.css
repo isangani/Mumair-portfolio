@@ -1,0 +1,436 @@
+.navbar-buttons,.font21{
+font-size: 1.313rem;
+font-weight: 400;
+}
+.navbar-buttons:hover,.hireme,.hireme:hover,.buttons:hover {
+    background-color:#FD6F00;
+    color: white;
+}
+.carousel-indicators [data-bs-target]{
+    padding: 0.25rem;
+    border-radius: 0.813rem 0.875rem;
+    background-color: rgb(196, 194, 194);
+}
+.carousel-indicators .active {
+    background-color: #FD6F00;
+}
+.dark{
+    filter: invert(1) grayscale(100);
+}
+.padding10{
+    padding: 0.3rem 0.625rem;
+}
+.hiremepadding{
+    padding: 0.4rem 2.3rem 0.4rem 2.3rem;
+}
+.border10{
+    border-radius: 0.5rem;
+}
+.border12{
+    border-radius: 0.75rem;
+}
+.navbar-toggler:focus {
+    box-shadow:none;
+}
+.navbar-p {
+    padding: 0rem 0.15rem 0rem 0.15rem;
+    background-color: white;
+}
+.tcenter{
+    text-align: center;
+}
+.navbar-nav .nav-link.show,.colorwhite{
+    color: white;
+}
+.backblack{
+    background-color: black;
+}
+.fontblack{
+    color: black;
+}
+.colororange{
+    color: #FD6F00;
+}
+.poppins{
+    font-family: Poppins;
+}
+.eurosmall{
+font-size: 1.313rem;
+font-weight: 600;
+}
+.margin5{
+    margin-top: 5%;
+}
+.font32{
+font-size: 2rem;
+font-weight: 600;
+}
+.eurobig{
+font-size: 5.625rem;
+line-height: 5rem;
+font-weight: 700;
+}
+.textright{
+    text-align: right;
+}
+.margin3{
+    margin-top: 3%;
+}
+.margin2{
+    margin-top: 2%;
+}
+.backwhite{
+    background-color: white;
+}
+.pr{
+    position:relative;
+}
+.position{
+    position: absolute;
+    top:10%;
+    right:11%;
+    z-index:3; 
+}
+body {
+    padding-top: 4.5rem;
+}
+.mleft{
+    margin-left: 37%;
+}
+.font65{
+font-size: 4.063rem;
+font-weight: 600;
+}
+.margin6{
+    margin-top: 6%;
+}
+.font19{
+font-size: 1.188rem;
+font-weight: 400;
+}
+.fweight500{
+    font-weight: 500;
+    font-size:1.5rem;
+}
+.ui-ux,.web-design{
+ width: 4.375rem;
+}
+.ui-ux,.web-design,.graphic,.phone{
+    height: 4.375rem;
+}
+.graphic{
+    width: 5.125rem;
+}
+.phone{
+    width: 2.938rem;
+}
+.back-light-pink{
+    background-color: rgb(224, 219, 220,0.2);
+}
+.card{
+    border-width: 0rem;
+   border-radius:  0.875rem;
+}
+.cbody{
+    padding: 0rem 0rem;
+}
+.cardpadding{
+    padding:3rem 1rem 2rem 1rem ;
+}
+.carousel-item{
+    padding: 2rem 1rem 4rem 1rem;
+}
+.padding15{
+    padding: 0.5rem 1rem 0.5rem 1rem;
+}
+.padding6{
+    padding: 0.625rem;
+}
+.buttons{
+border: 0.063rem solid #545454;
+background-color: #F8F8F8;
+margin-left: 1%;
+}
+.font24{
+font-size: 1.5rem;
+font-weight: 400;
+}
+.fweight700{
+    font-weight: 700;
+}
+.backimage{
+    background-image: url(images/orange.png);
+    background-repeat: no-repeat;
+    border-radius:  0.875rem;
+}
+.web-design1{
+    height:24.375rem;
+    width: 15rem;
+    float: right;
+    margin-right: 5%;
+}
+.web-design2{
+    height: 20.875rem;
+    width: 13.75rem;
+}
+.web-position{
+    position: absolute;
+    top:15%;
+    left:10%;
+}
+.fl{
+    float: left;
+    width:29%;
+}
+.fr{
+    float: right;
+    width: 67%;
+    margin-left: 4%;
+}
+.padding30{
+    padding: 2.2rem 2rem ;
+}
+.padding2{
+    padding: 2rem;
+}
+.nagativemar{
+    margin-top: -1.75rem;
+    margin-left: -0.938rem;
+}
+.nagativebottom{
+    margin-bottom: -0.938rem;
+}
+.mail{
+    width: 32.938rem;
+    height: 2.75rem;
+    border-radius: 0.625rem;
+    border: 0.1rem solid rgb(199, 198, 198);
+    padding: 0.938rem;
+    background-color:rgb(245, 245, 245);  
+}
+.padding20{
+    padding: 0.25rem 1.25rem 0.25rem 1.25rem;
+}
+.mleft3{
+    margin-left: 3%;
+}
+.footback{
+    background-color:  #545454;
+}
+
+@media  screen and (min-width:12.5rem) and (max-width:75rem) {
+    .black{
+        background-color: rgb(83, 78, 78);
+    }
+    .fontwhite{
+        color: white;
+    }
+    .textcenter{
+        text-align: center;
+    }
+    #navbarCollapse{
+        width: 100%;
+        padding: 1.5rem 0rem 1rem 0rem;
+    }
+    .nav-item{
+        padding: 0.5rem 0rem 0.5rem 0rem;
+    }
+    .font32{
+        font-size: 1.375rem;
+        font-weight: 500;
+    }
+    .eurosmall{
+        font-size: 1.125rem;
+        font-weight: 400;
+    }
+    .font24{
+        font-size:1.313rem;
+        }
+    .margin5{
+        margin-top: 2%;
+    }
+    .eurobig{
+        font-weight: 600;
+    }
+    .cardpadding{
+        padding:1.5rem 1rem 1rem 1rem ;
+    }
+    .lightdark{
+        filter: invert(1) grayscale(100);
+    }
+    .mail{
+        height: 2.438rem;
+    }
+}
+@media  screen and (min-width:62.5rem) and (max-width:75rem){
+    .eurobig{
+        font-size: 4.063rem;
+        line-height: 3.75rem;
+        }
+        .font65{
+            font-size: 3.125rem;
+            }
+        .position{
+            top:10%;
+            right:13%;
+        }
+        .web-design1{
+            height: 20.313rem;
+        }
+        .web-design2{
+            height: 17.375rem;
+            width: 10.625rem;
+        }
+}
+@media  screen and (min-width:12.5rem) and (max-width:62.5rem){
+    .mrtop{
+        margin-top: 3%;
+    }
+    .removemr{
+        margin-top: 1%;
+    }
+    .padding15{
+        padding: 0.4rem 0.5rem 0.4rem 0.5rem;
+    }
+    .divcenter{
+        text-align: center;
+    }
+    .fl,.fr{
+        float: none;
+        width: 100%;
+    }
+    .fr{
+        margin-left: 0%;
+    }
+    .fweight500{
+        font-size:1.375rem;
+    }
+    .font19{
+        font-size: 1.125rem;
+        font-weight: 300;
+    }
+    .padding2{
+        padding: 0.625rem;
+    }
+    .carasolimg{
+        height: 10rem;
+    }
+}
+@media  screen and (min-width:48rem) and (max-width:62.5rem){
+    .eurobig{
+        font-size: 3.125rem;
+        line-height: 3.125rem;
+        }
+        .position{
+            top:13%;
+            right:20%;
+        } 
+        .font65{
+            font-size: 2.5rem;
+        }
+        .padding30{
+            padding: 1.5rem 1.5rem;
+        } 
+        .box{
+            height: 3.75rem;
+        } 
+}
+@media  screen and (min-width:48rem) and (max-width:75rem){
+    .navbar-brand img,.footimg{
+        height: 3.125rem;
+    }
+    .font32{
+        font-size: 1.625rem;
+    } 
+    .font21{
+        font-size: 1.188rem;
+    }
+    .mail{
+        width: 25rem;
+    }  
+}
+@media  screen and (min-width:12.5rem) and (max-width:48rem){
+.navbar-brand img,.footimg{
+    height: 2.5rem;
+}
+.eurobig{
+    line-height: 2.5rem;
+}
+.addmr{
+    margin-top: 3%;
+}
+.mleft{
+    margin-left: 0%;
+}
+.position{
+    top:14%;
+}  
+.rmargin{
+    margin-top: 0%;
+}
+.margin1{
+    margin-top: 1%;
+}
+.font65,.eurobig{
+    font-size: 2.125rem;
+} 
+.cardcenter{
+    text-align: center;
+}
+.ui-ux,.web-design{
+        width: 3.125rem;
+}
+.ui-ux,.web-design,.graphic{
+        height: 3.125rem;
+}
+.graphic{
+        width: 3.875rem;
+}
+.phone{
+    height: 3.438rem;
+    width: 2.313rem;
+}
+.web-design1{
+        height: 20.313rem;
+        width: 16.25rem;
+        margin-right: 0%;
+}
+    .web-design2{
+        height: 17.375rem;
+    }
+    .font21{
+        font-size: 1.063rem;
+    }
+    .mail{
+        width: 12.5rem;
+    }
+    .padding20{
+        padding: 0.188rem 0.625rem 0.188rem 0.625rem;
+    }
+    .padding30{
+        padding: 1rem 0.625rem 1.5rem 0.625rem;
+    }
+    .padding10{
+        padding: 0.3rem 0.3rem;
+    }
+    .icons{
+        height: 1.875rem;
+    }
+    .euroimg{
+        height: 23.125rem;
+        width: 19.375rem;
+        object-fit: cover;
+    }
+    .box{
+        height: 2.5rem;
+    }
+    body,html{
+        overflow-x: hidden;
+        width: 100%;
+    }
+}
+@media screen and (min-width:12.5rem) and (max-width:22.188rem) {
+    .euroimg{
+        height:20.5rem;
+    }  
+}
